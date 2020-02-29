@@ -1,1 +1,17 @@
 # 844572-codesprint-ux-mywork
+My asscoiate id:844572
+Others team members:
+Other team members:
+844505, 844504, 844555, 844540.
+Team lead:
+844555
+My Role in team:
+1. To develop contact component and thanks response component  and implemented css classes for forms and implementation done in Angular.
+My development files:
+ 1. contactus component
+ 2. thanks component
+I was strong in:
+1. HTML
+2. Css
+3. Documentation
+4. Bootstrap
